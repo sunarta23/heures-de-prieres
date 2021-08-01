@@ -1,0 +1,53 @@
+# block the bad bots
+User-agent: YakazBot
+Disallow: /
+
+User-agent: trovitBot
+Disallow: /
+
+User-agent: 008
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Nutch
+Disallow: /
+
+User-Agent: MJ12bot
+Disallow: /
+
+User-agent: oodlebot
+Disallow: /
+
+User-agent: cbBot
+Disallow: /
+
+User-agent: spider
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+User-agent: Aboundexbot
+Disallow: /
+
+User-agent: CariBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://heures-de-prieres.herokuapp.com/host-https-horaire-de-priere.ma/sitemap.xml
